@@ -1,0 +1,39 @@
+.calculator{
+    width: 50%;
+    margin-left: 30%;
+    padding-top: 80px;
+}
+.screen{
+    border: 2px solid grey;
+    height: 80px;
+    padding: 20px;
+}
+.calc-button{
+    padding-top: 20;
+
+}
+.buttons{
+    padding: 10px;
+    margin: 10px;
+    width: 40px;
+    background-color: dodgerblue;
+    color: white;
+}
+.button{
+    padding: 10px;
+    margin: 10px;
+    width: 40px;
+    background-color: red;
+    color: white;
+}
+.operation{
+    padding-top: 20px;
+}
+.butt{
+    padding-left: 10px;
+    margin-left: 50%;
+    width: 40px;
+    padding-bottom: 10px;
+    background-color: red;
+    color: white
+}
