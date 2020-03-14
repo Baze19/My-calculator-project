@@ -44,7 +44,7 @@ function equal() {
         case '/':
             result = parseInt(firstnum) / parseInt(secondNum);
             break;
-        case '*':
+        case 'x':
             result = parseInt(firstnum) * parseInt(secondNum)
 
 
